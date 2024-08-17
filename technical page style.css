@@ -1,0 +1,19 @@
+table,th,td{border:1px solid white}
+ td,th{padding:5px;height:9px;}
+ table{border-spacing:0px;background-color:pink;}
+ #Start_your_learning_journey>a>img{display:inline; ; width:50%;box-shadow:3px 3px 5px grey;border-radius: 10%;}
+main{position:absolute;
+    margin-left:310px;margin-top:1px;padding:2px;width:60%;}
+    nav{position:fixed;padding-right: 10px;left:0;margin: 7px;width: 25%;border-right:3px solid orangered;height:100% ; display:flex; text-align: center;flex-direction: column;overflow: auto;}
+    nav>header{padding:10px ;box-shadow:4px 4px 4px grey ; border-bottom:2px solid white;background-color: lightgrey;border-radius: 15PX; padding-top: 20px;padding-bottom: 20px;display: block;}
+    nav>a{display:block;box-shadow:4px 4px 4px grey ;border-bottom:2px solid white; padding-top:27px;padding-bottom:27px;padding-right :10px;padding-left:10px;
+    text-decoration:none;border:2px solid white;color:black;background-color:lightsalmon;border-radius: 15px;}
+    body{min-width:290px;font-family:courier 'Courier New', Courier, monospace; background-color:floralwhite;}
+section>header{font-size: xx-large;text-shadow: 2px 2px 3px grey;}
+nav>a:hover{background-color: bisque;}
+hr{background-color:brown;height: 0.5px;}
+h4{background-color:gold ;border-radius: 10%;}
+
+
+    
+    
